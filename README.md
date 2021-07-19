@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EclipticBlaze
+- 👀 I’m interested in learing game development and coding.
+- 🌱 I’m currently learning how to use game engines.
